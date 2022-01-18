@@ -1,4 +1,4 @@
-# Map proxy
+# Map proxies
 
 ## Description
 
@@ -9,7 +9,7 @@ This library make them work.
 
 ```javascript
 
-const { mapHandler } = require('map-proxy')
+const { mapHandler } = require('map-proxies')
 
 const handler = {
   get: (target, prop, receiver) => {

@@ -1,5 +1,5 @@
 {
-  "name": "map-proxy",
+  "name": "map-proxies",
   "version": "1.0.0",
   "description": "Make proxies work with maps.",
   "main": "index.js",
